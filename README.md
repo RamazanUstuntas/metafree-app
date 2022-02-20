@@ -37,7 +37,7 @@
 
 <div align="center">
     <h1 id="about-the-project">About The Project</h1>
-    <img src="https://s10.gifyu.com/images/GIF-220219_204517b433ea2becb4a1e6.gif" alt="Logo" width="300" height="600"><br/><br/>
+    <img src="./demo/demo.gif?raw=true" alt="Demo" width="300" height="600"><br/><br/>
     <p>It is a React Native application that gets data with axios, includes Login, Registration and Menu pages.</p>
 </div>
 
