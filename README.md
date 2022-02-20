@@ -71,7 +71,7 @@
 
 <div align="center">
    <h1 id="application-pages">Application Pages<h1>
-   <img src=" https://i.hizliresim.com/hqp7c8b.jpg" width="200" height="400">
+   <img src="https://i.hizliresim.com/hqp7c8b.jpg" width="200" height="400">
    <img src="https://i.hizliresim.com/7h6ory9.jpg" width="200" height="400">
    <img src="https://i.hizliresim.com/pln4uf8.jpg" width="200" height="400">
    <img src="https://i.hizliresim.com/mc8nphv.jpg" width="200" height="400">
