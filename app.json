@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "ReactNativeApp",
     "slug": "ReactNativeApp",
+=======
+    "name": "MetaFreeApp",
+    "slug": "MetaFreeApp",
+>>>>>>> a021b0d8f07416a8b711b50b49ed8b74d3d613c3
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
